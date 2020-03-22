@@ -6,7 +6,6 @@ window._WrapperOrdiniDiLavoro = (function() {
             value = value + 1;
             return value;
         },
-s
         getValue: function() {
             return value;
         }
